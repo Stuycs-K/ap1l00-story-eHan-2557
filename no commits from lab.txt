@@ -1,0 +1,4 @@
+I wasn't able to get to the commits during lab due to issues with the ssh key. By the time I 
+setup a new ssh, edited the file, and was about to commit my first change from the lab, the 
+period was over. This is why there aren't any commits from the lab. I made sure to do all 
+the work listed in the lab, and I can confidently add, commit, and push without issue.
